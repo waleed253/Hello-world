@@ -4,3 +4,4 @@ Student panel
 from which one can start quiz of the selected subject. 
 Admin panel 
 In which the score and result is stored with student's details.
+Extract the test.zip file for the source code. 
